@@ -24,7 +24,6 @@ const UsersModule = () => {
           onChange={handleQuantityChange}
           className="form-select"
         >
-          <option value="1">1</option>
           <option value="5">5</option>
           <option value="10">10</option>
         </select>
